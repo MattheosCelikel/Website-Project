@@ -1,4 +1,4 @@
-//This is a copy of the original repository done with my 3 other team members.
+# This is a copy of the original repository done with my 3 other team members.
 
 # Structuring of front-end content
 - Image folder
