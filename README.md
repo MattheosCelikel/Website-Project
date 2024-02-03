@@ -1,7 +1,12 @@
-# Website-Project
+# Structuring of front-end content
 
-This is a copy of the original repository. History will be lost due to this being a copy.
-
-Frontend folder is intended for device hosting the apache server. 
-Rabbitmq_example folder is intended for the device hosting the rabbitmq broker server.
-Backend is meant to house the database listener.
+- Image folder
+    - Stores all of the images
+- Scripts folder
+    - Stores all of the javascript functionality
+- PHP folder
+	- Stores all of the php functionality
+- Misc folder
+	- Content that cannot be categorized in any other folder
+- Html Files
+	- They are in the root directory (public_html)
